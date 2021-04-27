@@ -1,0 +1,14 @@
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\bin\Debug\netcoreapp3.1\MISA.Bussiness.deps.json
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\bin\Debug\netcoreapp3.1\MISA.Bussiness.dll
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\bin\Debug\netcoreapp3.1\MISA.Bussiness.pdb
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\bin\Debug\netcoreapp3.1\MISA.DataAccess.dll
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\bin\Debug\netcoreapp3.1\MISA.DataAccess.pdb
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\obj\Debug\netcoreapp3.1\MISA.Bussiness.csprojAssemblyReference.cache
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\obj\Debug\netcoreapp3.1\MISA.Bussiness.AssemblyInfoInputs.cache
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\obj\Debug\netcoreapp3.1\MISA.Bussiness.AssemblyInfo.cs
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\obj\Debug\netcoreapp3.1\MISA.Bussiness.csproj.CoreCompileInputs.cache
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\obj\Debug\netcoreapp3.1\MISA.Bussiness.csproj.CopyComplete
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\obj\Debug\netcoreapp3.1\MISA.Bussiness.dll
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Bussiness\obj\Debug\netcoreapp3.1\MISA.Bussiness.pdb

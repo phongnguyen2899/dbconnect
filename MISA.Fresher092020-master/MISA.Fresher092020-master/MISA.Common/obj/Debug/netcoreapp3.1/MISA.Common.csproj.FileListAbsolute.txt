@@ -1,0 +1,13 @@
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.Properties.ResourceEN.resources
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.Properties.Resources.resources
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.Properties.ResourcesVN.resources
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.GenerateResource.cache
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb

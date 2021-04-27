@@ -1,0 +1,12 @@
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\bin\Debug\netcoreapp3.1\MISA.DataAccess.deps.json
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\bin\Debug\netcoreapp3.1\MISA.DataAccess.dll
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\bin\Debug\netcoreapp3.1\MISA.DataAccess.pdb
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\obj\Debug\netcoreapp3.1\MISA.DataAccess.csprojAssemblyReference.cache
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\obj\Debug\netcoreapp3.1\MISA.DataAccess.AssemblyInfoInputs.cache
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\obj\Debug\netcoreapp3.1\MISA.DataAccess.AssemblyInfo.cs
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\obj\Debug\netcoreapp3.1\MISA.DataAccess.csproj.CoreCompileInputs.cache
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\obj\Debug\netcoreapp3.1\MISA.DataAccess.csproj.CopyComplete
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\obj\Debug\netcoreapp3.1\MISA.DataAccess.dll
+D:\PRIVATE\GitHub\MISA.Fresher092020\MISA.DataAccess\obj\Debug\netcoreapp3.1\MISA.DataAccess.pdb
